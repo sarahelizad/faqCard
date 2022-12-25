@@ -1,0 +1,2 @@
+# faqCard
+FAQ Card model.
