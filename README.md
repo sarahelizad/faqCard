@@ -28,4 +28,4 @@ I want to continue working on layering images and implementing a mobile-first ap
 
 ## Author
 
-- Website - [Sarah Duval GitHub](https://www.your-site.com)
+- Website - [https://github.com/sarahelizad]
